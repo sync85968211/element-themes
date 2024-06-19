@@ -1,5 +1,5 @@
 {
-    "name": "SC Custom Black 4",
+    "name": "SC Custom Black 5",
     "is_dark": true,
     "colors": {
         "accent-color": "#747ff4",
@@ -20,7 +20,7 @@
         "secondary-content": "#dcddde",
         "tertiary-content": "#dcddde",
         "timeline-text-secondary-color": "#b9bbbe",
-        "timeline-highlights-color": "#1b1c1d",
+        "timeline-highlights-color": "#050607",
 
         "reaction-row-button-selected-bg-color": "#4752c4",
         "menu-selected-color": "#4752c4",
